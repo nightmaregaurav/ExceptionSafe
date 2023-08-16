@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>nightmaregaurav.exceptionsafe</PackageId>
+        <Version>1.0.0</Version>
+        <PackageVersion>1.0.0</PackageVersion>
+        <Description>ExceptionSafe is a utility library for swallowing exceptions.</Description>
+        <Authors>Gaurav Nyaupane</Authors>
+        <Owners>nightmaregaurav</Owners>
+        <PackageProjectUrl>https://github.com/nightmaregaurav/ExceptionSafe</PackageProjectUrl>
+        <Copyright>Copyright ©2023 Gaurav Nyaupane (nightmaregaurav)</Copyright>
+        <PackageTags>exception swallow exceptionhelper</PackageTags>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="LICENSE" Pack="true" PackagePath="" />
+        <None Include="README.md" Pack="true" PackagePath="\" />
+    </ItemGroup>
+</Project>
