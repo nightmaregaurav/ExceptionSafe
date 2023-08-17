@@ -4,8 +4,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>nightmaregaurav.exceptionsafe</PackageId>
-        <Version>1.0.0</Version>
-        <PackageVersion>1.0.0</PackageVersion>
+        <Version>1.0.1</Version>
+        <PackageVersion>1.0.1</PackageVersion>
         <Description>ExceptionSafe is a utility library for swallowing exceptions.</Description>
         <Authors>Gaurav Nyaupane</Authors>
         <Owners>nightmaregaurav</Owners>
